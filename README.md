@@ -7,6 +7,18 @@
 
 ---
 
+## 📸 صور من التعريب
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d5f4978c-f15f-44f1-b60b-d7765d9c89a0" width="18%" alt="الشاشة الرئيسية" />
+  <img src="https://github.com/user-attachments/assets/57a3180b-a523-4708-9d27-349d9861b572" width="18%" alt="قصة اللعبة" />
+  <img src="https://github.com/user-attachments/assets/5512cd1e-7189-43b8-bb6a-c388d65c5bd0" width="18%" alt="الحوارات" />
+  <img src="https://github.com/user-attachments/assets/ce181f34-c285-43de-a030-7aea91ccc7bd" width="18%" alt="التعليمات" />
+  <img src="https://github.com/user-attachments/assets/383384e8-92f0-462c-98a6-81a94c713301" width="18%" alt="صناعة السيوف" />
+</p>
+
+---
+
 ## ⚠️ تنبيهات هامة وإبراء ذمة
 
 * **لا تدع الألعاب تلهيك عن صلاتك وقضاء الوقت الثمين مع عائلتك وأصدقائك.**
